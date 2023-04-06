@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1600824030 source:c:\users\carlo\desktop\códigos\fda\diff2d.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"diff2d.h"
+	<time.h>
+	<x86intrin.h>
+
+1600213242 c:\users\carlo\desktop\códigos\fda\diff2d.h
+
+1600213198 source:c:\users\carlo\desktop\códigos\fda\pgmfiles.c
+	"pgmfiles.h"
+
+1600213259 c:\users\carlo\desktop\códigos\fda\pgmfiles.h
+	<stdio.h>
+	<stdlib.h>
+
+1600213221 source:c:\users\carlo\desktop\códigos\fda\pgmtolist.c
+	<stdio.h>
+	<stdlib.h>
+
+1600628704 source:c:\users\carlo\desktop\códigos\fda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"pgmfiles.h"
+	"diff2d.h"
+	<time.h>
+	<x86intrin.h>
+
